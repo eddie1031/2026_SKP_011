@@ -3,6 +3,7 @@ name = "smartport"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "holidays>=0.105",
     "jupyterlab>=4.6.4",
     "matplotlib>=3.11.2",
     "numpy>=2.5.3",
